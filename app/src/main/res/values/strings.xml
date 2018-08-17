@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">testApp</string>
+    <string name="title_activity_test_drawer">TestDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="produits">
+        <item>Essence</item>
+    </string-array>
+
+    <string-array name="type_essence">
+        <item>Diesel</item>
+        <item>Kerozen</item>
+        <item>Gazolin</item>
+    </string-array>
+
+    <string-array name="noPompe">
+        <item>#1</item>
+        <item>#2</item>
+        <item>#3</item>
+        <item>#4</item>
+        <item>#5</item>
+    </string-array>
+
+    <string-array name="pompistes">
+        <item>Rachele</item>
+        <item>Erwann</item>
+        <item>Pouchon</item>
+    </string-array>
+
+    <string-array name="paiement">
+        <item>Bon</item>
+        <item>Carte de crédit</item>
+        <item>Cash</item>
+    </string-array>
+</resources>
